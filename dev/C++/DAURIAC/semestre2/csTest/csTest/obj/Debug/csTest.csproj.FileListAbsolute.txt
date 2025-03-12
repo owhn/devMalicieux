@@ -1,0 +1,11 @@
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\csTest\csTest\bin\Debug\csTest.exe.config
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\csTest\csTest\bin\Debug\csTest.exe
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\csTest\csTest\bin\Debug\csTest.pdb
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\csTest\csTest\obj\Debug\csTest.csproj.AssemblyReference.cache
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\csTest\csTest\obj\Debug\csTest.FENETR.resources
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\csTest\csTest\obj\Debug\csTest.Properties.Resources.resources
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\csTest\csTest\obj\Debug\csTest.csproj.GenerateResource.cache
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\csTest\csTest\obj\Debug\csTest.csproj.CoreCompileInputs.cache
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\csTest\csTest\obj\Debug\csTest.exe
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\csTest\csTest\obj\Debug\csTest.pdb
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\csTest\csTest\obj\Debug\csTest.FENETR2.resources

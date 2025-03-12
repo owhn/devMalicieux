@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brissauda\\Documents\\C\u002B\u002B\\DAURIAC\\semestre 1\\visualStudioTPs\\Exercice base C\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC30DBA-3AAA-4449-B9B8-5CB4EB170F88}|Exercice Base C\u002B\u002B\\Exercice Base C\u002B\u002B.vcxproj|C:\\Users\\brissauda\\Documents\\C\u002B\u002B\\DAURIAC\\semestre 1\\visualStudioTPs\\Exercice base C\u002B\u002B\\Exercice Base C\u002B\u002B\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCC30DBA-3AAA-4449-B9B8-5CB4EB170F88}|Exercice Base C\u002B\u002B\\Exercice Base C\u002B\u002B.vcxproj|solutionrelative:Exercice Base C\u002B\u002B\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC30DBA-3AAA-4449-B9B8-5CB4EB170F88}|Exercice Base C\u002B\u002B\\Exercice Base C\u002B\u002B.vcxproj|C:\\USERS\\BRISSAUDA\\DOCUMENTS\\C\u002B\u002B\\DAURIAC\\SEMESTRE 1\\VISUALSTUDIOTPS\\FONCTIONS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC30DBA-3AAA-4449-B9B8-5CB4EB170F88}|Exercice Base C\u002B\u002B\\Exercice Base C\u002B\u002B.vcxproj|C:\\USERS\\BRISSAUDA\\DOCUMENTS\\C\u002B\u002B\\DAURIAC\\SEMESTRE 1\\VISUALSTUDIOTPS\\FONCTIONS.CPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\brissauda\\Documents\\C\u002B\u002B\\DAURIAC\\semestre 1\\visualStudioTPs\\Exercice base C\u002B\u002B\\Exercice Base C\u002B\u002B\\Source.cpp",
+              "RelativeDocumentMoniker": "Exercice Base C\u002B\u002B\\Source.cpp",
+              "ToolTip": "C:\\Users\\brissauda\\Documents\\C\u002B\u002B\\DAURIAC\\semestre 1\\visualStudioTPs\\Exercice base C\u002B\u002B\\Exercice Base C\u002B\u002B\\Source.cpp",
+              "RelativeToolTip": "Exercice Base C\u002B\u002B\\Source.cpp",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAAAFABAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T07:59:19.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fonctions.h",
+              "DocumentMoniker": "C:\\Users\\brissauda\\Documents\\C\u002B\u002B\\DAURIAC\\semestre 1\\visualStudioTPs\\fonctions.h",
+              "RelativeDocumentMoniker": "..\\fonctions.h",
+              "ToolTip": "C:\\Users\\brissauda\\Documents\\C\u002B\u002B\\DAURIAC\\semestre 1\\visualStudioTPs\\fonctions.h",
+              "RelativeToolTip": "..\\fonctions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-21T07:34:06.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fonctions.cpp",
+              "DocumentMoniker": "C:\\Users\\brissauda\\Documents\\C\u002B\u002B\\DAURIAC\\semestre 1\\visualStudioTPs\\fonctions.cpp",
+              "RelativeDocumentMoniker": "..\\fonctions.cpp",
+              "ToolTip": "C:\\Users\\brissauda\\Documents\\C\u002B\u002B\\DAURIAC\\semestre 1\\visualStudioTPs\\fonctions.cpp",
+              "RelativeToolTip": "..\\fonctions.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-21T07:34:07.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

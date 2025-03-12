@@ -1,0 +1,51 @@
+body{
+    background-image: url("image_fond.gif");
+    background-size: 33% 33%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1{
+position: relative;
+top:0px;
+left:0px;
+color:rgb(255, 0, 179);
+font-size: 40px;
+}
+
+#position{
+    position: relative;
+    top:20px;
+    left:10px;
+}
+
+.position1{
+    position: relative;
+    top:1px;
+    left:100px;
+}
+
+.couleur1{
+    color: rgb(0,17,255);
+    font-size: 30px;
+}
+
+.couleur2{
+    color: rgb(255,255,255);
+    font-size: 30px;
+}
+
+.couleur3{
+    color: rgb(255,0,0);
+    font-size: 30px;
+}
+
+#image{
+    position: absolute;
+    width:100px;
+    height:100px;
+    background-size: 100% 100%;
+    top: 65px;
+    left: 400px;
+}

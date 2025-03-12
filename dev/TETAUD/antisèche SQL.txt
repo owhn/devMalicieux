@@ -1,0 +1,79 @@
+SELECT :
+La requête SQL SELECT est utilisée pour récupérer des données à partir d'une ou plusieurs tables d'une base de données.
+
+SELECT colonne1, colonne2...
+FROM nom_de_la_table
+WHERE condition;
+
+ou
+
+SELECT nom, prenom, age
+FROM utilisateurs
+WHERE ville = 'Paris';
+
+
+INNER JOIN :
+La requête SQL INNER JOIN est utilisée pour combiner des lignes provenant de deux tables basées sur une condition de jointure spécifiée.
+
+SELECT colonnes
+FROM table1
+INNER JOIN tabel2 ON table1.colonne = table2.colonne;
+
+ou
+
+SELECT utilisateurs.nom, utilisateurs.prenom, commandes.numero_commande,
+FROM utilisateurs
+INNER JOIN commandes ON utilisateurs.id = commandes.utilisateur_id;
+
+
+INSERT INTO :
+La requête INSERT INTO permet d’ajouter des données dans une table.
+
+INSERT INTO nom_de_la_table (colonne1, colonne2, colonne3, ...)
+VALUES (valeur1, valeur2, valeur3)
+
+ou 
+
+INSERT INTO utilisateurs (nom, prenom, age, ville)
+VALUES ( 'Dupont', 'Jean', 30, 'Paris');
+
+
+UPDATE :
+La requête SQL UPDATE est utilisée pour modifier les données existantes dans une table. Voici la syntaxe générale de la requête UPDATE :
+
+UPDATE nom_de_la_table
+SET colonne1 = valeur1, colonne2 = valeur2, ...
+WHERE condition;
+
+ou
+
+UPDATE utilisateurs
+SET age = age + 1
+WHERE ville = 'Paris';
+
+
+DELETE:
+pas besoin de définition si ?
+
+DELETE FROM nom_de_la_table
+WHERE condition;
+
+
+DROP TABLE :
+supprime une table
+
+DROP TABLE nom_de_la_table;
+
+
+
+
+
+
+
+
+
+DELETE FROM `commande` WHERE id_client=1010 ORDER BY prep DESC LIMIT 1
+
+
+SELECT * FROM `commande` WHERE id_client=1010 ORDER BY prep DESC LIMIT 1
+

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  fonctions.cpp
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre2\TPSEM2\TPSEM2\fonctions.cpp(80,13): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre2\TPSEM2\TPSEM2\fonctions.cpp(203,10): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Génération de code en cours...
+  TPSEM2.vcxproj -> C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre2\TPSEM2\x64\Debug\TPSEM2.exe

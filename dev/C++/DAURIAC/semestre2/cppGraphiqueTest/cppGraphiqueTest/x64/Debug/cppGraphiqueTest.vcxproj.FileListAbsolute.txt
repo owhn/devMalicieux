@@ -1,0 +1,3 @@
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\cppGraphiqueTest\cppGraphiqueTest\x64\Debug\cppGraphiqueTest.vcxproj.AssemblyReference.cache
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\cppGraphiqueTest\cppGraphiqueTest\x64\Debug\cppGraphiqueTest.MyForm.resources
+C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre 2\cppGraphiqueTest\cppGraphiqueTest\x64\Debug\cppGraphiqueTest.vcxproj.GenerateResource.cache

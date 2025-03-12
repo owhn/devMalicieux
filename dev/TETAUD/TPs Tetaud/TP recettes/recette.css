@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(168,203,186);
+}
+
+#nbPers{
+    position: absolute;
+    left:400px;
+}
+
+#crepe{
+    position: absolute;
+    left: 50px;
+}
+
+#cake{
+    position: absolute;
+    left: 200px;
+}

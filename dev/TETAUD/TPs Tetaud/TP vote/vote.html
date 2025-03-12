@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Présidentielles</title>
+        <meta charset="UTF-8">
+        <link href="styleVote.css" rel="stylesheet" type="text/css">
+    </head>
+
+    <body>
+        <h1 class="titre">Erection du président</h1>
+        
+        <h3 class="question"> Parmi ces personnalités politiques, laquelle souhaitez-vous voir élue Président de la république 2022 (pas macron svp)</h3>
+        <form method="POST" action="phpVote.php">
+            <input type="radio" class="bouton" id="1" value="1" name="bouton"> Dupont-Aignan<br>
+            <input type="radio" class="bouton" id="2" value="2" name="bouton"> manu macron<br>
+            <input type="radio" class="bouton" id="3" value="3" name="bouton"> Benoit HAMOOOON<br>
+            <input type="radio" class="bouton" id="4" value="4" name="bouton"> NATHALIIIIIIIIIIE arthaud<br>
+            <input type="radio" class="bouton" id="5" value="5" name="bouton"> Poutou<br>
+            <input type="radio" class="bouton" id="6" value="6" name="bouton"> JLM<br>
+            <input type="radio" class="bouton" id="7" value="7" name="bouton"> Lasalle<br>
+            <input type="submit" name="send" href="resultatsVote.php">
+            <input type="reset" name="cancel">
+        </form>
+
+        <form method="POST" action="resultatsVote.php">
+            <input type="submit" class="resultats" id="Resultats" name="resultats" value="Resultats">
+            
+        </form>
+
+    </body>
+
+</html>

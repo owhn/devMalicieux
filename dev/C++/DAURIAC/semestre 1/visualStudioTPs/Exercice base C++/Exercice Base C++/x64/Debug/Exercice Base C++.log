@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\brissauda\Documents\C++\DAURIAC\visualStudioTPs\fonctions.cpp(79,8): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  (compiler le fichier source 'Source.cpp')
+  
+  Exercice Base C++.vcxproj -> C:\Users\brissauda\Documents\C++\DAURIAC\visualStudioTPs\Exercice base C++\x64\Debug\Exercice Base C++.exe

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>CHOIX D'UNE COULEUR</title>
+        <meta charset="UTF-8">
+        <link href="stylecouleur.css" rel="stylesheet" type="text/css">
+    </head>
+
+    <body>
+        <div id="checkboxDiv"><input type="checkbox" id="checkbox1" onclick="fonctionCheckbox()">Annuler une commande</div>
+        <div id="Annuler" hidden>   
+            <form method="GET" action="annulationCommande.php" id="annulationCommande">   
+                <h1> Annulation d'une commande</h1>
+                
+                Nom : <input type="text" name="nom" id="nom" required> Prénom : <input type="text" name="prenom" id="prenom" required><br>
+                Adresse :<br>
+                <input type="text" name="adresse" id="adresse" required></textarea>
+                <input type="submit" value="Supprimer votre dernière commande">
+
+
+
+            
+            </form>
+        </div>
+        <div id="Commander">
+            <form method="GET" action="couleur.php" id="blocTexte">   
+                
+                <h1 class="titre"><center>VEUILLEZ CHOISIR UNE COULEUR</center></h1>
+
+                <h2>Choix catalogue ou personnel</h2>
+                <input type="radio" id="catalogue" name="group1" onclick="choixCata()">
+                <label for="catalogue">Catalogue</label>
+                <input type="radio" id="personnel" name="group1" onclick="choixPerso()" checked>
+                <label for="personnel">Personnel</label>
+                <p id="output"></p>
+
+                <select id="catalogueDiv" onclick="cataCouleur()">
+                    <h2>Choix catalogue</h2>
+                    <option id="selRouge" value="Rouge">Rouge</option>
+                    <option id="selJaune" value="Jaune">Jaune</option>
+                    <option id="selVert" value="Vert">Vert</option>
+                    <option id="selBleu" value="Bleu">Bleu</option>
+                </select>
+
+                
+                <div id="personnelDiv" class="slideContainer" >
+                    <h2>Choix de la couleur</h2>
+                    Rouge :<input name="valeurRouge" type="range" min="0" max="255" value="255" step="5" class="myRange" id="sliderRouge" onclick="blocCouleur()">
+                    <output type="text" class="resultatCouleur" id="resultatRouge"></output><br>
+                    Vert :<input name="valeurVert" type="range" min="0" max="255" value="0" step="5" class="myRange" id="sliderVert" onclick="blocCouleur()">
+                    <output type="text" class="resultatCouleur" id="resultatVert"></output><br>
+                    Bleu :<input name="valeurBleu" type="range" min="0" max="255" value="0" step="5" class="myRange" id="sliderBleu" onclick="blocCouleur()">
+                    <output type="text" class="resultatCouleur" id="resultatBleu"></output>
+                </div>
+
+
+        <img src="" alt="">
+                <div id="blocCouleur"></div>
+                <div id="textAreas">
+                    <h2>Quantité</h2>
+                    <select name="quantite">
+                        <option value="0.5">0,5 litre</option>
+                        <option value="1">1 litre</option>
+                        <option value="1.5">1,5 litre</option>
+                        <option value="2">2 litres</option>
+                    </select>
+
+                    
+                        Nom : <input type="text" name="nom" id="nom" required> Prénom : <input type="text" name="prenom" id="prenom" required><br>
+                        Adresse :<br>
+                        <input type="text" name="adresse" id="adresse" required></textarea>
+                        <input type="submit">
+                </div>
+                
+            </form>
+        </div>
+
+        <script src="couleur.js" type="text/javascript"></script>
+
+    </body>
+</html>

@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(135, 149, 175);
+}
+
+.titre{
+    font-size: 40px;
+}
+
+.myRange{
+    position: absolute;
+    left:80px;
+}
+
+#blocCouleur{
+    position: absolute;
+    top:200px;
+    left:300px;
+    border: 2px solid rgb(0,0,0);
+    width: 100px;
+    height: 80px;
+}
+
+#checkboxDiv{
+    position: absolute;
+    top:0px;
+    left:1700px;
+}
+
+#blocTexte{
+    position: relative;
+    top: 50px;
+}
+
+#annulationCommande{
+    position: relative;
+    top: 50px;
+}
+#adresse{
+    width: 400px;
+    height: 40px;
+}
+
+#nom{
+    width: 140px;
+    height: 20px;
+}
+
+#prénom{
+    width: 140px;
+    height: 20px;
+}
+
+.resultatCouleur{
+    position: absolute;
+
+    left: 50px;
+}
+
+#textAreas{
+    position: absolute;
+    top:500px;
+}
+
