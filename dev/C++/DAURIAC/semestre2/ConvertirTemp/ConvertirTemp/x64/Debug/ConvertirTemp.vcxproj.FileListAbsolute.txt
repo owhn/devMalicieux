@@ -1,3 +1,6 @@
 C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre2\ConvertirTemp\ConvertirTemp\x64\Debug\ConvertirTemp.vcxproj.AssemblyReference.cache
 C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre2\ConvertirTemp\ConvertirTemp\x64\Debug\ConvertirTemp.MyForm.resources
 C:\Users\brissauda\Documents\dev\C++\DAURIAC\semestre2\ConvertirTemp\ConvertirTemp\x64\Debug\ConvertirTemp.vcxproj.GenerateResource.cache
+C:\Users\irqve\Desktop\devMalicieux\dev\C++\DAURIAC\semestre2\ConvertirTemp\ConvertirTemp\x64\Debug\ConvertirTemp.vcxproj.AssemblyReference.cache
+C:\Users\irqve\Desktop\devMalicieux\dev\C++\DAURIAC\semestre2\ConvertirTemp\ConvertirTemp\x64\Debug\ConvertirTemp.MyForm.resources
+C:\Users\irqve\Desktop\devMalicieux\dev\C++\DAURIAC\semestre2\ConvertirTemp\ConvertirTemp\x64\Debug\ConvertirTemp.vcxproj.GenerateResource.cache
